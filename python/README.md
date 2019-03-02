@@ -19,6 +19,7 @@ Topics
 * Pragmatism from experience: Do's and Don'ts.
 * The mindset of a nerd, programmer, software engineer and a problemsolver
 * A beginner's guide to programming languages and tool
+* Intepreted (eg. python) and compiled (eg. C) languages
 * "Hello, nerdies!" : Writing the first program
   * how to compile a python script
 * Don't be constant: Variables
@@ -34,7 +35,7 @@ Assignment
 - Install [python3](https://www.python.org/downloads/release/python-370/)
 - Write your first python script, compile the script and take screenshot.
 
-Bonus - For the Explorers 
+Bonus
 -------
 - read about [pip](https://www.w3schools.com/python/python_pip.asp)
 - install your first python package using `pip install`
@@ -101,7 +102,7 @@ Assignment
 - A not-so-exciting adventure game! :video_game:
 - Fibonacci numbers! (with a cool erudite name)
 
-## Day5:  Gotta be Class-y - while catching pokemons :no_entry:
+## Day5:  Gotta be Class-y - while catching pokemons 👩‍🎨
 
 Topics
 ------
@@ -174,10 +175,13 @@ Topics
   * Other hot languages (and frameworks):
     * Golang (static, similar to C, super fast, used in concurrent programming)
     * Javascript (React, Angular, Vue, Node, Express, .. so many awesome frameworks  ..)
-    * C, C++ (operating systems, game development, research, security)
+    * C, C++ (fastest among all, used in operating systems, game development, research, security)
+    * PHP (Laravel, Lumen, dynamic scripting language with a large community and super fast prototyping)
     * Erlang, Elixir (Cellular programming)
     * Rust (faster than Go, but harder to use)
     * Haskell (functional programming language)
+* Dreams ...
+  * What are your future goals?
 
 Assignment
 -------
@@ -186,3 +190,6 @@ Assignment
 ![Example Image][3]
 
 [3]: https://udemy-images.udemy.com/course/750x422/761380_c68d_3.jpg
+
+
+Courtesy: [Saad Akash](https://github.com/SaadAAkash)
