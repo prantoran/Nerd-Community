@@ -5,7 +5,7 @@ Here goes all the codes discussed in the classes. If you haven't been able to ge
 
 ![Example Image][1]
 
-[1]: https://media.boingboing.net/wp-content/uploads/2017/02/0d184219b7a5ab8e6c89cabef1372649c453fa3f_main_hero_image.jpg
+[1]: https://www.python.org/static/opengraph-icon-200x200.png
 
 ## Day1: Once upon a time ... - The Intro :bowtie:
 
@@ -22,6 +22,7 @@ Topics
 * "Hello, nerdies!" : Writing the first program
   * how to compile a python script
 * Don't be constant: Variables
+  * `static` and `dynamic` types
 * Inputs and fun
 * [StackOverflow](https://stackoverflow.com) - The hero we need.
 * [Reddit](https://www.reddit.com/) - place to meet other nerds.
@@ -35,6 +36,7 @@ Assignment
 
 Bonus - For the Explorers 
 -------
+- read about [pip](https://www.w3schools.com/python/python_pip.asp)
 - install your first python package using `pip install`
   - `pip install numpy`
 - read about [virtualenv](https://virtualenv.pypa.io/en/latest/)
@@ -63,7 +65,7 @@ Topics
 
 Assignment
 -------
-Be the Logical Sheldon Cooper! :joy:
+- Be the Logical Sheldon Cooper! :joy:
 
 ## Day3: Stuck in the Loop - The Ring :ring:
 
@@ -81,7 +83,7 @@ Topics
 
 Assignment
 -------
-Send a heart to your dear one!
+- Send a heart to your dear one!
 
 ## Day4: Functions & Dictionaries - The Oracle :crown:
 
@@ -120,7 +122,7 @@ Assignment
 
 ![Example Image][2]
 
-[2]: https://studyopedia.com/wp-content/uploads/2017/09/Learn-Python.png
+[2]: https://www.pngkey.com/png/detail/203-2037991_clip-freeuse-cage-drawing-snake-cute-ball-python.png
 
 ## Day6: How To Meet Ladies - The HTML :love_letter:
 
@@ -131,7 +133,6 @@ Topics
 * Tags, Styles and Formatting
 * Canvus, colors and images
 * 	- You are the CSS to my HTML, gaarl! 
-	- Give me a "</br>", boii.
 * Code your website
 * Watch and share your website works live on Nerd Community
 
@@ -153,7 +154,7 @@ Topics
 
 Assignment
 -------
-Code your own Meme Generator! :trollface:
+- Code your own Meme Generator! :trollface:
 
 
 ## Day8: Text like Julias - The Julias Caeser :thought_balloon:
@@ -161,16 +162,27 @@ Code your own Meme Generator! :trollface:
 Topics
 ------
 * Introduction to Cryptography and Cryptanalysis 
-* Basic Terminologies, Encryption and Decryption
+* Basic Terminologies:
+  * Encryption & Decryption
+  * Symmetric & Asymmetric
 * Making Paper Cryptography tools and how to use them
 * Learning Cypher technique from Julius Caesar 
 * Code encryption and decryption
 * Code caeser cypher
+* What now?
+  * Applications of python: Software Development, Research.
+  * Other hot languages (and frameworks):
+    * Golang (static, similar to C, super fast, used in concurrent programming)
+    * Javascript (React, Angular, Vue, Node, Express, .. so many awesome frameworks  ..)
+    * C, C++ (operating systems, game development, research, security)
+    * Erlang, Elixir (Cellular programming)
+    * Rust (faster than Go, but harder to use)
+    * Haskell (functional programming language)
 
 Assignment
 -------
-Avengers, Assemble! :godmode:
+- Create your own cipher! :godmode:
 	
 ![Example Image][3]
 
-[3]: https://udemy-images.udemy.com/course/480x270/426570_1b91_3.jpg
+[3]: https://udemy-images.udemy.com/course/750x422/761380_c68d_3.jpg
