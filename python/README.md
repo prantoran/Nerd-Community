@@ -220,7 +220,7 @@ Topics
 Topics
 ------
 * gonna be a hacker for one day
-  * run a ReactJS project - a snake game
+  * run a ReactJS project - [a snake game](https://github.com/prantoran/react-prac/tree/master/snake)
   * figure out what the code does through trial and error
   * learn concepts by searching unknown stuff found in the code
 * Convert the snake game into pacman!
