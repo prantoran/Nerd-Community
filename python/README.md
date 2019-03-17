@@ -158,21 +158,109 @@ Assignment
 - Code your own Meme Generator! :trollface:
 
 
-## Day8: Text like Julias - The Julias Caeser :thought_balloon:
+## Day8: The Future is bright - AI, Quantum Computing, Distributed Computing, Blockchain, Automation ... :thought_balloon:
 
 Topics
 ------
-* Introduction to Cryptography and Cryptanalysis 
-* Basic Terminologies:
-  * Encryption & Decryption
-  * Symmetric & Asymmetric
-* Making Paper Cryptography tools and how to use them
-* Learning Cypher technique from Julius Caesar 
-* Code encryption and decryption
-* Code caeser cypher
-* What now?
-  * Applications of python: Software Development, Research.
-  * Other hot languages (and frameworks):
+* Artificial Intelligence
+  * What is it
+    * Linear Algebra
+    * Calculus
+    * Statistics
+  * Supervised
+    * neural networks
+    * Deep learning
+    * Reinforcement Learning
+    * Generative Adversarial Networks
+  * Unsupervised
+  * Semi-Supervised
+  * Applications:
+    * self-driving cars
+    * image, voice recognition
+    * image and voice synthesis
+* Quantum Computing
+  * classical computer can have 2 states, represented by bits
+  * quantum computer can have more than 2 states, represented by qubits
+    * can compute way faster
+* Distributed Computing
+  * cloud computing
+  * use processing power of multiple computers located all over the world and connected via internet
+* Blockchain
+  * depend on cloud computing
+  * decentralized 
+  * uses contracts and hashes as source of truth
+* Automation
+  * AI
+  * Robitics
+
+
+
+## Day 9: The mysterious world of Javascript
+
+Topics
+------
+
+  * Why Javascript?
+    * Cuz it's fun
+    * One of the hottest lanugauages to learn right now
+    * Write once, run anywhere
+  * Too good to be true?
+    * jack of all trades, master of none
+    * heavy node modules
+    * slower than static languages
+  * Hacker mentality
+    * feels like swimming in the ocean
+    * google your errors and questions
+    * checkout how others tackled similar situations in stackoverflow
+  * active learning 
+  * ReactJS and NodeJS
+    * `npx create-react-app`
+  
+## Day 10: Snake game! [such creativy, much wow]
+Topics
+------
+* gonna be a hacker for one day
+  * run a ReactJS project - a snake game
+  * figure out what the code does through trial and error
+  * learn concepts by searching unknown stuff found in the code
+* Convert the snake game into pacman!
+  * sort of a pacman
+
+Assignment
+-------
+- Use your imagination and modify the code to make your own unique game
+- find out 6 unknown concepts, words or phrases in the code, note them and search those phrases online
+
+
+## Day 11: Problem Solving and Contest Programming
+- Also, a soft introduction to C/C++
+- download [codeblocks](http://www.codeblocks.org)
+- What is problem solving and contest programming?
+- Why should you be interested?
+  - computer science is a specialization of mathematics and electrical engineering
+  - consists of logic and algorithms
+  - problem solving means solving a problem using appropriate algorithnms and data structures
+    - what are algorithms and data-structures ?!
+  - love math, logic and puzzles?
+  - want to get a chance for interview at a big tech company?
+  - want to be a top-notch researcher?
+- ACM ICPC World Finals
+  - The olympics for computer science
+- International Infomatics Olympiad
+- We will solve a simple problem in [codeforces](https://codeforces.com)
+
+Assignment
+-------
+- solve 5 easy problems from codeforces.
+
+
+## Day 12: What Now?
+
+Topics
+---------
+
+What now?
+  * Hot languages (and frameworks):
     * Golang (static, similar to C, super fast, used in concurrent programming)
     * Javascript (React, Angular, Vue, Node, Express, .. so many awesome frameworks  ..)
     * C, C++ (fastest among all, used in operating systems, game development, research, security)
@@ -182,10 +270,8 @@ Topics
     * Haskell (functional programming language)
 * Dreams ...
   * What are your future goals?
-
-Assignment
--------
-- Create your own cipher! :godmode:
+* Future of Computer science
+  * trends and research
 	
 ![Example Image][3]
 
