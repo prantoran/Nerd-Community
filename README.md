@@ -158,42 +158,31 @@ Assignment
 - Code your own Meme Generator! :trollface:
 
 
-## Day8: The Future is bright - AI, Quantum Computing, Distributed Computing, Blockchain, Automation ... :thought_balloon:
+## Day8: Intro to Operating Systems and Git :thought_balloon:
 
 Topics
 ------
-* Artificial Intelligence
-  * What is it
-    * Linear Algebra
-    * Calculus
-    * Statistics
-  * Supervised
-    * neural networks
-    * Deep learning
-    * Reinforcement Learning
-    * Generative Adversarial Networks
-  * Unsupervised
-  * Semi-Supervised
-  * Applications:
-    * self-driving cars
-    * image, voice recognition
-    * image and voice synthesis
-* Quantum Computing
-  * classical computer can have 2 states, represented by bits
-  * quantum computer can have more than 2 states, represented by qubits
-    * can compute way faster
-* Distributed Computing
-  * cloud computing
-  * use processing power of multiple computers located all over the world and connected via internet
-* Blockchain
-  * depend on cloud computing
-  * decentralized 
-  * uses contracts and hashes as source of truth
-* Automation
-  * AI
-  * Robitics
+* Overview of Operating Systems
+  * Main Ideas
+    * Virtualization
+    * Concurrency
+    * Persistence
+  * what is a kernel
+  * Examples of different OS and their usage domains
+* Git
+  * What is it and why is it used?
+    * collaboration among multiple developers working on the same project
+  * common commands
+* Github
+  * creating repos
+  * setting up ssh
+  * cloning a repo
+  * explore the contents of .git directory
+  * pushing code to github using terminal
 
-
+Assignment
+-------
+- Go through the [tutorial](https://guides.github.com/activities/hello-world)
 
 ## Day 9: The mysterious world of Javascript
 
