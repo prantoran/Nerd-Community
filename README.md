@@ -54,6 +54,7 @@ Topics
 * Functions
 
 #### Today's topics
+* lists, dictionaries, tuples
 * object oriented programming
 	* class
 	* methods
