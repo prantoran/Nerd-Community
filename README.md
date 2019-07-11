@@ -33,36 +33,48 @@ Assignment
 -------
 - Say Something I'm giving up on you! :notes:
 - Install [python3](https://www.python.org/downloads/release/python-370/)
+- Install Acaconda
 - Write your first python script, compile the script and take screenshot.
-
-Bonus
--------
-- read about [pip](https://www.w3schools.com/python/python_pip.asp)
-- install your first python package using `pip install`
-  - `pip install numpy`
-- read about [virtualenv](https://virtualenv.pypa.io/en/latest/)
-- install `virtualenv` from the `terminal` / `cmd`
-  - `pip install virtualenv`
-- create your own virtual python environment and install packages in that environment.
-  - `virtualenv env1 -p python3`
-  - `source env1/bin/activate`
-- get a list of packages installed in the current environment
-  - `pip freeze > requirements.txt`
-- install packages from the list of packages
-  - `pip install -r requirements.txt`
+- try the problem https://codeforces.com/contest/4/problem/A
+- try to solve fibonacci sequence using both functions and array
 
 
 ## Day2: How did the unsinkable Titanic sink - The Logic :broken_heart:
 
 Topics
 ------
-
+#### Review
+* Assignments
+	* functional and array solution for fibonacci sequences
 * IDE: What are those?
 * Data Types
 * Operators
 * Conditionals
 * Branching
-* Introduction to Problem solving
+* Functions
+
+#### Today's topics
+* object oriented programming
+	* class
+	* methods
+	* attributes
+	* inheritence
+	* polymorphism
+* folder and file structure for making python package
+* install a package using python's package management system
+	* `pip install numpy`
+* creating virtual package environment
+	- read about [virtualenv](https://virtualenv.pypa.io/en/latest/)
+	- install `virtualenv` from the `terminal` / `cmd`
+	  - `pip install virtualenv`
+	- create your own virtual python environment and install packages in that environment.
+	  - `virtualenv env1 -p python3`
+	  - `source env1/bin/activate`
+* package list in environment
+	- get a list of packages installed in the current environment
+	  - `pip freeze > requirements.txt`
+	- install packages from the list of packages
+	  - `pip install -r requirements.txt`
 
 Assignment
 -------
