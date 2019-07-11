@@ -64,6 +64,7 @@ Topics
 	* polymorphism
 	* Tutorials
 		* https://www.tutorialspoint.com/python/python_classes_objects
+		* https://realpython.com/python3-object-oriented-programming
 * folder and file structure for making python package
 * install a package using python's package management system
 	* `pip install numpy`
