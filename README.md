@@ -55,6 +55,7 @@ Topics
 
 #### Today's topics
 * lists, dictionaries, tuples
+	* https://www.quora.com/What-is-the-main-difference-between-a-list-tuple-and-dictionaries
 * object oriented programming
 	* class
 	* methods
