@@ -62,6 +62,8 @@ Topics
 	* attributes
 	* inheritence
 	* polymorphism
+	* Tutorials
+		* https://www.tutorialspoint.com/python/python_classes_objects
 * folder and file structure for making python package
 * install a package using python's package management system
 	* `pip install numpy`
